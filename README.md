@@ -1,17 +1,16 @@
 # DSA Mini Project-1
 ## DSA Assignment
-# NAME - ADRITA BURAGOHAIN
+## NAME - ADRITA BURAGOHAIN
 
-# SCHOLAR ID - 2012185
+## SCHOLAR ID - 2012185
 
-## Code to find the nth Fibonacci number. The range of n can be (0-20,000).
+ Code to find the nth Fibonacci number. The range of n can be (0-20,000).
 
-## National Institute of Technology Silchar,
+ National Institute of Technology Silchar,
+ MiniProject-I,
 
-## MiniProject-I,
+ Data Structures,
 
-# Data Structures,
+## Course Code: CS 201
 
-# Course Code: CS 201
-
-## C Program for Large Fibonacci Number
+### C Program for Large Fibonacci Number
